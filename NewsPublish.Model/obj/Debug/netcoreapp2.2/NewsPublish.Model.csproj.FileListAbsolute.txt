@@ -1,0 +1,16 @@
+E:\Git\NewPublish\NewPublish.Model\obj\Debug\netcoreapp2.2\NewsPublish.Model.csproj.CoreCompileInputs.cache
+E:\Git\NewPublish\NewPublish.Model\obj\Debug\netcoreapp2.2\NewsPublish.Model.AssemblyInfoInputs.cache
+E:\Git\NewPublish\NewPublish.Model\obj\Debug\netcoreapp2.2\NewsPublish.Model.AssemblyInfo.cs
+E:\Git\NewPublish\NewPublish.Model\bin\Debug\netcoreapp2.2\NewsPublish.Model.deps.json
+E:\Git\NewPublish\NewPublish.Model\bin\Debug\netcoreapp2.2\NewsPublish.Model.dll
+E:\Git\NewPublish\NewPublish.Model\bin\Debug\netcoreapp2.2\NewsPublish.Model.pdb
+E:\Git\NewPublish\NewPublish.Model\obj\Debug\netcoreapp2.2\NewsPublish.Model.dll
+E:\Git\NewPublish\NewPublish.Model\obj\Debug\netcoreapp2.2\NewsPublish.Model.pdb
+E:\Git\NewPublish\NewsPublish.Model\bin\Debug\netcoreapp2.2\NewsPublish.Model.deps.json
+E:\Git\NewPublish\NewsPublish.Model\bin\Debug\netcoreapp2.2\NewsPublish.Model.dll
+E:\Git\NewPublish\NewsPublish.Model\bin\Debug\netcoreapp2.2\NewsPublish.Model.pdb
+E:\Git\NewPublish\NewsPublish.Model\obj\Debug\netcoreapp2.2\NewsPublish.Model.csproj.CoreCompileInputs.cache
+E:\Git\NewPublish\NewsPublish.Model\obj\Debug\netcoreapp2.2\NewsPublish.Model.AssemblyInfoInputs.cache
+E:\Git\NewPublish\NewsPublish.Model\obj\Debug\netcoreapp2.2\NewsPublish.Model.AssemblyInfo.cs
+E:\Git\NewPublish\NewsPublish.Model\obj\Debug\netcoreapp2.2\NewsPublish.Model.dll
+E:\Git\NewPublish\NewsPublish.Model\obj\Debug\netcoreapp2.2\NewsPublish.Model.pdb
