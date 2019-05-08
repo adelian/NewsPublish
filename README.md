@@ -1,0 +1,2 @@
+# NewPublish
+.net Core
