@@ -3489,11 +3489,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Git\\NewPublish\\NewsPublish.Service\\NewsPublish.Service.csproj",
+      "projectUniqueName": "E:\\Git\\NewsPublish\\NewsPublish.Service\\NewsPublish.Service.csproj",
       "projectName": "NewsPublish.Service",
-      "projectPath": "E:\\Git\\NewPublish\\NewsPublish.Service\\NewsPublish.Service.csproj",
+      "projectPath": "E:\\Git\\NewsPublish\\NewsPublish.Service\\NewsPublish.Service.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\Git\\NewPublish\\NewsPublish.Service\\obj\\",
+      "outputPath": "E:\\Git\\NewsPublish\\NewsPublish.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3512,8 +3512,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "E:\\Git\\NewPublish\\NewsPublish.Model\\NewsPublish.Model.csproj": {
-              "projectPath": "E:\\Git\\NewPublish\\NewsPublish.Model\\NewsPublish.Model.csproj"
+            "E:\\Git\\NewsPublish\\NewsPublish.Model\\NewsPublish.Model.csproj": {
+              "projectPath": "E:\\Git\\NewsPublish\\NewsPublish.Model\\NewsPublish.Model.csproj"
             }
           }
         }

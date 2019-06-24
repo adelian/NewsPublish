@@ -24,6 +24,6 @@ namespace NewsPublish.Service
         public virtual DbSet<Banner> Banner { get; set; }
         public virtual DbSet<News> News { get; set; }
         public virtual DbSet<NewsClassify> NewsClassify { get; set; }
-        public virtual DbSet<NewsConment> NewsConment { get; set; }
+        public virtual DbSet<NewsComment> NewsComment { get; set; }
     }
 }

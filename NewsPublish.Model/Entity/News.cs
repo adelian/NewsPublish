@@ -8,7 +8,7 @@ namespace NewsPublish.Model.Entity
     {
         public News()
         {
-            this.NewsConment = new HashSet<NewsConment>();
+            this.NewsComment = new HashSet<NewsComment>();
         }
         public int Id { get; set; }
         public int NewsClassifyId { get; set; }
@@ -18,6 +18,6 @@ namespace NewsPublish.Model.Entity
         public DateTime PublishDate { get; set; }
         public string Remark { get; set; }
         public virtual NewsClassify NewsClassify { get; set; }
-        public virtual ICollection<NewsConment> NewsConment { get; set; }
+        public virtual ICollection<NewsComment> NewsComment { get; set; }
     }
 }

@@ -10,3 +10,15 @@ E:\Git\NewPublish\NewsPublish.Service\obj\Debug\netcoreapp2.2\NewsPublish.Servic
 E:\Git\NewPublish\NewsPublish.Service\obj\Debug\netcoreapp2.2\NewsPublish.Service.csproj.CopyComplete
 E:\Git\NewPublish\NewsPublish.Service\obj\Debug\netcoreapp2.2\NewsPublish.Service.dll
 E:\Git\NewPublish\NewsPublish.Service\obj\Debug\netcoreapp2.2\NewsPublish.Service.pdb
+E:\Git\NewsPublish\NewsPublish.Service\bin\Debug\netcoreapp2.2\NewsPublish.Service.deps.json
+E:\Git\NewsPublish\NewsPublish.Service\bin\Debug\netcoreapp2.2\NewsPublish.Service.dll
+E:\Git\NewsPublish\NewsPublish.Service\bin\Debug\netcoreapp2.2\NewsPublish.Service.pdb
+E:\Git\NewsPublish\NewsPublish.Service\bin\Debug\netcoreapp2.2\NewsPublish.Model.dll
+E:\Git\NewsPublish\NewsPublish.Service\bin\Debug\netcoreapp2.2\NewsPublish.Model.pdb
+E:\Git\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp2.2\NewsPublish.Service.csprojAssemblyReference.cache
+E:\Git\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp2.2\NewsPublish.Service.csproj.CoreCompileInputs.cache
+E:\Git\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp2.2\NewsPublish.Service.AssemblyInfoInputs.cache
+E:\Git\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp2.2\NewsPublish.Service.AssemblyInfo.cs
+E:\Git\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp2.2\NewsPublish.Service.csproj.CopyComplete
+E:\Git\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp2.2\NewsPublish.Service.dll
+E:\Git\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp2.2\NewsPublish.Service.pdb

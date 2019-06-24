@@ -4,7 +4,7 @@ using System.Text;
 
 namespace NewsPublish.Model.Entity
 {
-    public class NewsConment
+    public class NewsComment
     {
         public int Id { get; set; }
         public int NewsId { get; set; }
